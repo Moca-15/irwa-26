@@ -10,7 +10,7 @@ This folder contains the Part 1 deliverables of the IRWA final project.
 
 ### Data
 
-The data files are not in the GitHub repository, because the dataset is too large to upload, so you must change them before running the notebook. Use the full path, including the file name. 
+The data files are not in the GitHub repository because the dataset is too large to upload, so you must download them and add them to the data folder before running the notebook.
 
 ### Content
 #### Part 1 – Data preparation
