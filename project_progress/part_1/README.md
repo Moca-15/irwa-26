@@ -1,12 +1,12 @@
 ## Part 1 - Text Processing and Exploratory Data Analysis
 Carla Royo Gómez (u233460)
 Ingrid Sigró Alonso(u232682)
-Rita Alonso Casablancas
+Rita Alonso Casablancas (u233565)
 
 This folder contains the Part 1 deliverables of the IRWA final project.
 
 - **irwa-part1.ipynb** is the code for text pre-processing (Part 1) and exploratory data analysis (Part 2 of the assignment).
-- **IRWA-2026-u233460-u232682-part-1.pdf** is the report with the decisions, assumptions, and results.
+- **IRWA-2026-u233460-u232682-u233565-part-1.pdf** is the report with the decisions, assumptions, and results.
 
 ### Data
 
