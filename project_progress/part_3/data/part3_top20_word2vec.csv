@@ -1,0 +1,101 @@
+method,query,rank,pid,score,title,rating,out_of_stock
+word2vec,men polo shirt,1,TSHFWCPHK7J5H2UU,0.7334,Solid Men Polo Neck Green T-Shirt,4,False
+word2vec,men polo shirt,2,TSHFWCPHA8JF4HDV,0.7316,Solid Men Polo Neck Blue T-Shirt,4,False
+word2vec,men polo shirt,3,TSHFWCPH77RAYAFF,0.7315,Solid Men Polo Neck White T-Shirt,4,False
+word2vec,men polo shirt,4,TSHFWVYDD2G5USN6,0.7313,Solid Men Polo Neck Maroon T-Shirt,4.5,False
+word2vec,men polo shirt,5,TSHFWCPHW85DNJFF,0.7311,Solid Men Polo Neck Red T-Shirt,4,False
+word2vec,men polo shirt,6,TSHFWCPHVBZRCCYQ,0.731,Solid Men Polo Neck Blue T-Shirt,4,False
+word2vec,men polo shirt,7,TSHFWCPHY7FJ4RHU,0.7306,Solid Men Polo Neck Maroon T-Shirt,4,False
+word2vec,men polo shirt,8,TSHFWCPHJXZHYPNP,0.7306,Solid Men Polo Neck Beige T-Shirt,4,False
+word2vec,men polo shirt,9,TSHFWJZEBEGPHCTH,0.7304,Solid Men Polo Neck Grey T-Shirt,4,False
+word2vec,men polo shirt,10,TSHFWJZEH8ERSCHN,0.73,Solid Men Polo Neck Maroon T-Shirt,4,False
+word2vec,men polo shirt,11,TSHFWCPH3K9Q9PGX,0.7298,Solid Men Polo Neck Purple T-Shirt,4,False
+word2vec,men polo shirt,12,TSHFWJZEEUGVR2GC,0.7298,Solid Men Polo Neck Red T-Shirt,4,False
+word2vec,men polo shirt,13,TSHFWJZEBYGWUK6P,0.7296,Solid Men Polo Neck White T-Shirt,4,False
+word2vec,men polo shirt,14,TSHFWCPHZEAZXY9K,0.7294,Solid Men Polo Neck Dark Blue T-Shirt,4,False
+word2vec,men polo shirt,15,TSHFWJZEJMHYGR3D,0.7292,Solid Men Polo Neck Black T-Shirt,4,False
+word2vec,men polo shirt,16,TSHFWCPH58HTE4FT,0.7291,Solid Men Polo Neck White T-Shirt,4,False
+word2vec,men polo shirt,17,TSHFWCPHG3ZSARY3,0.7291,Solid Men Polo Neck Green T-Shirt,4,False
+word2vec,men polo shirt,18,TSHFWJZEYSSJH2MC,0.729,Solid Men Polo Neck Black T-Shirt,4,False
+word2vec,men polo shirt,19,TSHFWCPHGD3PFBF7,0.7284,Solid Men Polo Neck Black T-Shirt,4,False
+word2vec,men polo shirt,20,TSHFWJZEHUJGGUVV,0.7282,Solid Men Polo Neck Light Green T-Shirt,4,False
+word2vec,women printed kurta,1,KTAFD3ZMEMREHQHS,0.7856,Women Printed Cotton Blend Straight Kurta  (Orange),4,False
+word2vec,women printed kurta,2,KTAFD3ZMPXPC3GE4,0.7856,Women Printed Cotton Blend Straight Kurta  (Orange),4,False
+word2vec,women printed kurta,3,KTAFD3ZMWMWFHWHH,0.7856,Women Printed Cotton Blend Straight Kurta  (Orange),4,False
+word2vec,women printed kurta,4,KTAFD3ZMZSMMHB5C,0.7856,Women Printed Cotton Blend Straight Kurta  (Orange),4,False
+word2vec,women printed kurta,5,KTAFDVG4YZBS44WT,0.7741,"Women Printed Cotton Blend Straight Kurta  (Blue, Orange)",3.9,False
+word2vec,women printed kurta,6,KTAFBCFZCBYFGW8H,0.7674,Women Printed Cotton Blend Straight Kurta  (Multicolor),3.8,False
+word2vec,women printed kurta,7,ETHFVPUVNZVHRDSW,0.7534,Women Kurta and Pyjama Set Pure Cotton,,False
+word2vec,women printed kurta,8,ETHFVPUVE5VSHZAM,0.7532,Women Kurta and Pyjama Set Pure Cotton,,False
+word2vec,women printed kurta,9,ETHFVPUVWNFZZS7W,0.7532,Women Kurta and Pyjama Set Pure Cotton,,False
+word2vec,women printed kurta,10,ETHFY7FBXY6ZDTKN,0.7418,Women Kurta and Pyjama Set Pure Cotton,,False
+word2vec,women printed kurta,11,ETHFY7FBZZYWK2ZH,0.7418,Women Kurta and Pyjama Set Pure Cotton,,False
+word2vec,women printed kurta,12,KTAFZJX6ACH2QQ2S,0.7414,"Women Self Design Cotton Linen Blend, Cotton Blend Straight Kurta  (Pink)",3.5,False
+word2vec,women printed kurta,13,KTAFD2U9ZNKJGBGY,0.7399,Women Printed Cotton Blend Straight Kurta  (Yellow),4,False
+word2vec,women printed kurta,14,KTAFD2U9YMZEMGGB,0.7389,Women Printed Cotton Blend Straight Kurta  (Orange),3.4,False
+word2vec,women printed kurta,15,KTAFD2U96GQBXCSP,0.7386,Women Printed Cotton Blend Straight Kurta  (Blue),4,False
+word2vec,women printed kurta,16,KTAFD2U9TD6VNWFY,0.7386,Women Printed Cotton Blend Straight Kurta  (Blue),4,False
+word2vec,women printed kurta,17,KTAFD2U9YFW3CFPR,0.7386,Women Printed Cotton Blend Straight Kurta  (Blue),4,False
+word2vec,women printed kurta,18,ETHFT9HQRGEXHETK,0.7374,Women Kurta and Pyjama Set Cotton Blend,3,False
+word2vec,women printed kurta,19,KTAFD2U9CPNYSPX7,0.7369,Women Printed Cotton Blend Straight Kurta  (Beige),4,False
+word2vec,women printed kurta,20,KTAFD2U9H96RNW3H,0.7369,Women Printed Cotton Blend Straight Kurta  (Beige),4,False
+word2vec,blue slim jeans,1,JEAEJYZ8KAGSABDQ,0.7591,Slim Men Dark Blue Jeans,3,False
+word2vec,blue slim jeans,2,JEAFSKYHHDQ2SDZQ,0.7491,Tapered Fit Men Light Blue Jeans,4.7,False
+word2vec,blue slim jeans,3,JEAFXUHA5YF8WYQY,0.7468,Tapered Fit Men Blue Jeans,2.5,False
+word2vec,blue slim jeans,4,JEAFXUHUQHXQQDYJ,0.7463,Tapered Fit Women Blue Jeans,2.5,False
+word2vec,blue slim jeans,5,JEAFSKYH539HTZB8,0.745,Tapered Fit Men Blue Jeans,3.9,False
+word2vec,blue slim jeans,6,JEAFUZXT2J3VV2RR,0.7432,Tapered Fit Men Light Blue Jeans,2.5,False
+word2vec,blue slim jeans,7,JEAFXUHDY4CQKEBP,0.7419,Super Skinny Men Light Blue Jeans,2.5,False
+word2vec,blue slim jeans,8,JEAFWBJH2FQHNTCM,0.7408,Super Skinny Women Light Blue Jeans,2.5,False
+word2vec,blue slim jeans,9,JEAFF87GVUTFGSDE,0.74,Slim Women Dark Blue Jeans,3,False
+word2vec,blue slim jeans,10,TROF5M2CQUY6HYFZ,0.7397,Slim Fit Women Blue Cotton Lycra Blend Trousers,3.6,False
+word2vec,blue slim jeans,11,JEAFSKYHRVZSABPR,0.7394,Slim Men Blue Jeans,3.3,False
+word2vec,blue slim jeans,12,JEAFSKYHTE76YWH7,0.7394,Slim Men Blue Jeans,2.5,False
+word2vec,blue slim jeans,13,JEAFWBJK8FTXWTT6,0.739,Super Skinny Men Blue Jeans,2.5,False
+word2vec,blue slim jeans,14,JEAFWBJKN3UHKMRG,0.739,Super Skinny Women Blue Jeans,2.5,False
+word2vec,blue slim jeans,15,JEAFUZXR2EJZN7JQ,0.7387,Tapered Fit Women Blue Jeans,2.5,False
+word2vec,blue slim jeans,16,JEAFUZXTDDPPDFSM,0.7387,Tapered Fit Women Blue Jeans,2.5,False
+word2vec,blue slim jeans,17,JEAFUZXSHCZNHQE4,0.7377,Tapered Fit Men Light Blue Jeans,2.5,False
+word2vec,blue slim jeans,18,JEAFXUHCWV9C5WNX,0.7373,Super Skinny Men Blue Jeans,2.5,False
+word2vec,blue slim jeans,19,JEAFXUHFWQTBJTNG,0.7373,Super Skinny Men Blue Jeans,2.5,False
+word2vec,blue slim jeans,20,JEAFXUHTQGBVANVY,0.7373,Super Skinny Men Blue Jeans,2.5,False
+word2vec,women sweatshirt cotton,1,SWSFW6KB8GZHEC72,0.8126,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,2,SWSFWG9BCZG4GZVP,0.8091,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,3,SWSFWG9BXMPKGAGK,0.8081,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,4,SWSFWG9B8HFE6SGK,0.8081,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,5,SWSFWG9BTRDCWR2S,0.8081,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,6,SWSFWG9BZMUHEFHS,0.808,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,7,SWSFWG9BJ5U5BRBU,0.8072,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,8,SWSFWG9BHYUMNSPG,0.807,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,9,SWSFWG9BAP5FGWG4,0.8067,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,10,SWSFW6BQ74JCVHHH,0.8061,Full Sleeve Color Block Women Sweatshirt,3.6,True
+word2vec,women sweatshirt cotton,11,SWSFWG9BGCPANYBJ,0.8059,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,12,SWSFW7F6GRN8XWCH,0.8054,Full Sleeve Solid Women Sweatshirt,3.9,False
+word2vec,women sweatshirt cotton,13,SWSFWG9BX4ZUVNHU,0.8052,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,14,SWSFWG9BUDKAPD55,0.8051,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,15,SWSFW6BQDDJHZEJV,0.8042,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,16,SWSFWG9B7CCYYVZZ,0.8042,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,17,SWSFWG9BXWWDZVCA,0.8029,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,18,SWSFWBV6DB7B5GW2,0.8023,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,19,SWSFWBV6EHHRM53D,0.8023,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,women sweatshirt cotton,20,SWSFWG9BKWPB9U2D,0.802,Full Sleeve Color Block Women Sweatshirt,3.6,False
+word2vec,men track pants,1,TKPFKS96T88SUYBZ,0.8668,Solid Men Blue Track Pants,2.3,False
+word2vec,men track pants,2,TKPF3FPPTPDKPPFE,0.814,Solid Men Grey Track Pants,2.6,False
+word2vec,men track pants,3,TKPF3FPQJFH5KRK5,0.814,Solid Men Grey Track Pants,2.6,False
+word2vec,men track pants,4,TKPF3FPZRD9GSNKR,0.814,Solid Men Grey Track Pants,2.6,False
+word2vec,men track pants,5,TKPF3FPKTYM55SAV,0.8135,"Solid Men Black, Grey Track Pants",2.6,False
+word2vec,men track pants,6,TKPF3FPNZ5XCHZ6R,0.8135,"Solid Men Black, Grey Track Pants",2.6,False
+word2vec,men track pants,7,TKPF3FPQGCHXHGRM,0.8135,"Solid Men Black, Grey Track Pants",2.6,False
+word2vec,men track pants,8,TKPF3FPJNVVBKPRG,0.8113,"Solid Men Blue, Black Track Pants",2.6,False
+word2vec,men track pants,9,TKPF3FPKHNWZ3UMG,0.8113,"Solid Men Blue, Black Track Pants",2.6,False
+word2vec,men track pants,10,TKPF3FPZRRJUWTAZ,0.8113,"Solid Men Blue, Black Track Pants",2.6,False
+word2vec,men track pants,11,TKPFSMZ7FYJUG77X,0.8069,Striped Men Maroon Track Pants,3,False
+word2vec,men track pants,12,TKPFZMQ8YMWNGXEU,0.8065,Solid Men Black Track Pants,,False
+word2vec,men track pants,13,TKPFZANU45HFMT8X,0.805,Solid Men Grey Track Pants,,False
+word2vec,men track pants,14,TKPFZANS5H4CQTXA,0.8047,Solid Men Maroon Track Pants,,False
+word2vec,men track pants,15,TKPEYQ6YNHW8FV5R,0.8038,"Solid Men Black, Orange Track Pants",3.5,False
+word2vec,men track pants,16,TKPFZCRTFWVNBG4U,0.8026,Solid Men Yellow Track Pants,,False
+word2vec,men track pants,17,TKPFZG64NDH5W4UY,0.8019,Striped Men Grey Track Pants,3.5,False
+word2vec,men track pants,18,TKPEYQ6Y3WBFYPZR,0.7983,Color Block Men Blue Track Pants,3.3,False
+word2vec,men track pants,19,TKPFYNYUNRZKTWFJ,0.7906,Solid Men Grey Track Pants,3.2,False
+word2vec,men track pants,20,TKPFPBZRTHY2FJEK,0.7856,Solid Men Blue Track Pants,2.3,False

@@ -1,0 +1,101 @@
+method,query,rank,pid,score,title,rating,out_of_stock
+bm25,men polo shirt,1,TSHEMA3VPXKK8AHJ,6.0528,Solid Men Polo Neck White T-Shirt,2.3,False
+bm25,men polo shirt,2,TSHEMA48MBNNFZTC,6.0528,Solid Men Polo Neck Red T-Shirt,2.3,False
+bm25,men polo shirt,3,TSHEMA48TUDM9N6Z,6.0528,Solid Men Polo Neck Green T-Shirt,2.3,False
+bm25,men polo shirt,4,TSHEMA3YS7HEPCUY,6.0392,Solid Men Polo Neck Blue T-Shirt,2.3,False
+bm25,men polo shirt,5,TSHEMA44ZMZDJUBB,6.0392,Solid Men Polo Neck White T-Shirt,2.3,False
+bm25,men polo shirt,6,TSHEMA47DFMT9F2W,6.0392,Solid Men Polo Neck Blue T-Shirt,2.3,False
+bm25,men polo shirt,7,TSHFWVYDD2G5USN6,5.9945,Solid Men Polo Neck Maroon T-Shirt,4.5,False
+bm25,men polo shirt,8,TSHF98JNPUBAZYKY,5.9893,Striped Men Polo Neck Red T-Shirt,3,False
+bm25,men polo shirt,9,TSHFZKJHBGGUBASG,5.9698,Solid Men Polo Neck Grey T-Shirt,4,False
+bm25,men polo shirt,10,TSHFZKJHQ4GWPCDY,5.9698,Solid Men Polo Neck Grey T-Shirt,4,False
+bm25,men polo shirt,11,TSHFYZ977AHKXDMX,5.964,Solid Men Polo Neck Black T-Shirt,3.2,False
+bm25,men polo shirt,12,TSHFZHPBXMRMMUY4,5.9529,Solid Men Polo Neck Green T-Shirt,4,False
+bm25,men polo shirt,13,TSHFZKJHASFMNT2Y,5.9529,Solid Men Polo Neck Grey T-Shirt,4,False
+bm25,men polo shirt,14,TSHFZKJHPDKJZZ8X,5.9529,Solid Men Polo Neck Grey T-Shirt,4,False
+bm25,men polo shirt,15,TSHFZHPBZNZ7HZRT,5.9361,Solid Men Polo Neck Dark Blue T-Shirt,4,False
+bm25,men polo shirt,16,TSHFZHPCPATEGC2E,5.9361,Solid Men Polo Neck Dark Blue T-Shirt,4,False
+bm25,men polo shirt,17,TSHFZHPCQ3KJZFCB,5.9194,Solid Men Polo Neck Dark Blue T-Shirt,4,False
+bm25,men polo shirt,18,TSHFZ67FFFJ2S4CQ,5.8915,Solid Men Polo Neck Grey T-Shirt,4.3,False
+bm25,men polo shirt,19,TSHFZHPBVYPHHC2J,5.8862,Solid Men Polo Neck Pink T-Shirt,4,False
+bm25,men polo shirt,20,TSHFXMHEUFKTM3GK,5.874,Printed Men Polo Neck Red T-Shirt,2.3,False
+bm25,women printed kurta,1,KTAFD3ZMEMREHQHS,8.8899,Women Printed Cotton Blend Straight Kurta  (Orange),4,False
+bm25,women printed kurta,2,KTAFD3ZMPXPC3GE4,8.8899,Women Printed Cotton Blend Straight Kurta  (Orange),4,False
+bm25,women printed kurta,3,KTAFD3ZMWMWFHWHH,8.8899,Women Printed Cotton Blend Straight Kurta  (Orange),4,False
+bm25,women printed kurta,4,KTAFD3ZMZSMMHB5C,8.8899,Women Printed Cotton Blend Straight Kurta  (Orange),4,False
+bm25,women printed kurta,5,KTAF5SD3WHM2V9HZ,8.7181,Women Printed Cotton Blend Straight Kurta  (Orange),4.1,False
+bm25,women printed kurta,6,KTAFDVG4YZBS44WT,8.698,"Women Printed Cotton Blend Straight Kurta  (Blue, Orange)",3.9,False
+bm25,women printed kurta,7,KTAFTQVJG6MZJYMS,8.6176,Women Printed Pure Cotton Straight Kurta  (Brown),4.1,False
+bm25,women printed kurta,8,KTAFBCFZCBYFGW8H,8.5828,Women Printed Cotton Blend Straight Kurta  (Multicolor),3.8,False
+bm25,women printed kurta,9,KTAFZ9KFEAFVMWFN,8.5085,Women Polka Print Cotton Blend A-line Kurta  (White),4.6,False
+bm25,women printed kurta,10,KTAFZJX6ACH2QQ2S,8.4551,"Women Self Design Cotton Linen Blend, Cotton Blend Straight Kurta  (Pink)",3.5,False
+bm25,women printed kurta,11,KTAFWKJYFQBAAAQC,8.4213,Women Polka Print Cotton Blend A-line Kurta  (Green),4.6,False
+bm25,women printed kurta,12,KTAFZCH5954HZSWJ,8.3997,Women Printed Cotton Linen Blend Straight Kurta  (White),4.1,False
+bm25,women printed kurta,13,KTAFZCH5BCNAFZJ6,8.3997,Women Printed Cotton Linen Blend Straight Kurta  (White),4.1,False
+bm25,women printed kurta,14,KTAFZCK5DPNRZXHZ,8.3719,Women Printed Cotton Linen Blend Straight Kurta  (Beige),4.1,False
+bm25,women printed kurta,15,KTAFZCK5RGNECHHH,8.3719,Women Printed Cotton Linen Blend Straight Kurta  (Blue),4.1,False
+bm25,women printed kurta,16,KTAFZCK5XEZCZXF8,8.3719,Women Printed Cotton Linen Blend Straight Kurta  (Beige),4.1,False
+bm25,women printed kurta,17,KTAFWKJYBGSFZHHR,8.364,Women Polka Print Cotton Blend A-line Kurta  (Light Blue),4.6,False
+bm25,women printed kurta,18,KTAFTQVJ4Z9GK5KZ,8.209,Women Printed Pure Cotton Straight Kurta  (Dark Blue),4.1,False
+bm25,women printed kurta,19,KTAFTQVJ7UUBRAB5,8.209,Women Printed Pure Cotton Straight Kurta  (Light Blue),4.1,False
+bm25,women printed kurta,20,KTAFUTJENTBADJCJ,8.2029,Women Printed Pure Cotton Straight Kurta  (White),3.4,True
+bm25,blue slim jeans,1,JEAFW4DU5ZCHV7YH,8.6192,Slim Women Blue Jeans,3.5,False
+bm25,blue slim jeans,2,JEAFSKYHRVZSABPR,8.6086,Slim Men Blue Jeans,3.3,False
+bm25,blue slim jeans,3,JEAFSKYHTE76YWH7,8.6086,Slim Men Blue Jeans,2.5,False
+bm25,blue slim jeans,4,JEAFV4J883JZ7Z2J,8.5909,Slim Women Blue Jeans,2.9,False
+bm25,blue slim jeans,5,JEAFSKYHKRH9B5VF,8.5883,Slim Women Blue Jeans,2.5,False
+bm25,blue slim jeans,6,JEAFW4DUEGRPEYDR,8.5576,Slim Women Light Blue Jeans,3.5,False
+bm25,blue slim jeans,7,JEAEVJGUSXRNSHRY,8.5529,Slim Men Dark Blue Jeans,3.8,False
+bm25,blue slim jeans,8,JEAFJM2P2FQQJF3C,8.4681,Slim Men Dark Blue Jeans,4.1,False
+bm25,blue slim jeans,9,JEAFRAQGMM8AZA7R,8.4597,Slim Men Blue Jeans,,True
+bm25,blue slim jeans,10,JEAEZY2U4Z2FX4CY,8.4595,Stretchable Slim Women Blue Jeans,3.8,False
+bm25,blue slim jeans,11,JEAEHGRJSGGYEYYX,8.4528,Slim Men Light Blue Jeans,3,False
+bm25,blue slim jeans,12,JEAFWZXTFGMP9GCN,8.4469,Slim Men Blue Jeans,2.2,False
+bm25,blue slim jeans,13,JEAFRAQ6PKNJPCVF,8.4303,Slim Women Blue Jeans,2.2,False
+bm25,blue slim jeans,14,JEAFRBWNTYXUPTMM,8.4075,Slim Women Blue Jeans,4.7,True
+bm25,blue slim jeans,15,JEAFRAQWW9FYHVVE,8.4068,Slim Men Blue Jeans,,True
+bm25,blue slim jeans,16,JEAFDVDYTGFWU46M,8.3883,"Slim Women Dark Blue, Blue Jeans  (Pack of 2)",3.8,False
+bm25,blue slim jeans,17,JEAFM634A4SG4GC7,8.3693,Slim Men Blue Jeans,3.3,True
+bm25,blue slim jeans,18,JEAFRBWSXQJSSEMF,8.3693,Slim Women Blue Jeans,,True
+bm25,blue slim jeans,19,JEAFZQ8YZB7EBFHA,8.3693,Slim Women Blue Jeans,,True
+bm25,blue slim jeans,20,JEAFRAQYJAGJSJUY,8.3602,Slim Men Blue Jeans,,True
+bm25,women sweatshirt cotton,1,SWSFYFFFFYZ896TJ,6.9122,Full Sleeve Printed Women Sweatshirt,3.2,False
+bm25,women sweatshirt cotton,2,SWSFYFFYFXCMPBDZ,6.8945,Full Sleeve Printed Women Sweatshirt,3.2,False
+bm25,women sweatshirt cotton,3,SWSFYFFYQ7Z3ZKN6,6.8945,Full Sleeve Printed Women Sweatshirt,3.2,False
+bm25,women sweatshirt cotton,4,SWSFYFFYFZ3ZPGXR,6.8769,Full Sleeve Printed Women Sweatshirt,3.2,False
+bm25,women sweatshirt cotton,5,SWSFYFFYNUHYEQGD,6.8769,Full Sleeve Printed Women Sweatshirt,3.2,False
+bm25,women sweatshirt cotton,6,SWSFYFFYQA4B8WXP,6.8769,Full Sleeve Printed Women Sweatshirt,3.2,False
+bm25,women sweatshirt cotton,7,SWSFYFFYCFJEYYTU,6.8594,Full Sleeve Printed Women Sweatshirt,3.2,False
+bm25,women sweatshirt cotton,8,SWSFYFFYHHDFZBRM,6.842,Full Sleeve Printed Women Sweatshirt,3.2,False
+bm25,women sweatshirt cotton,9,SWSFVZRFS7GHGKSF,6.7615,Full Sleeve Solid Women Sweatshirt,4,False
+bm25,women sweatshirt cotton,10,SWSFXMFPDVRHYYPH,6.7352,Full Sleeve Striped Women Sweatshirt,3.7,False
+bm25,women sweatshirt cotton,11,SWSFXMFPPZGDQGMW,6.7352,Full Sleeve Striped Women Sweatshirt,3.6,False
+bm25,women sweatshirt cotton,12,SWSFXYRYTHZWSZPE,6.7286,Full Sleeve Graphic Print Women Sweatshirt,2.7,False
+bm25,women sweatshirt cotton,13,SWSFXMFP2RUM86QD,6.6927,Full Sleeve Printed Women Sweatshirt,3.7,False
+bm25,women sweatshirt cotton,14,SWSFMTNHEM5SNHVZ,6.6765,Full Sleeve Solid Women Sweatshirt,4.2,False
+bm25,women sweatshirt cotton,15,SWSFXMFPNZQGZZNE,6.6717,Full Sleeve Printed Women Sweatshirt,,True
+bm25,women sweatshirt cotton,16,SWSFY5ZHUEZPZZYV,6.6683,Full Sleeve Printed Women Sweatshirt,4.6,False
+bm25,women sweatshirt cotton,17,SWSFUNF6V4ASAUTP,6.6591,Full Sleeve Printed Women Sweatshirt,4.3,False
+bm25,women sweatshirt cotton,18,SWSEP4DJBZWHAZXC,6.6523,Full Sleeve Self Design Women Sweatshirt,3.7,False
+bm25,women sweatshirt cotton,19,SWSFFVKBAZGKCQCX,6.6388,Full Sleeve Graphic Print Women Sweatshirt,4.3,False
+bm25,women sweatshirt cotton,20,SWSEP4EBPJYA6G2S,6.6347,Full Sleeve Self Design Women Sweatshirt,3.7,False
+bm25,men track pants,1,TKPFYVRNV6MHFGZA,10.9661,Solid Men Blue Track Pants,3.2,False
+bm25,men track pants,2,TKPFZANS5H4CQTXA,10.9545,Solid Men Maroon Track Pants,,False
+bm25,men track pants,3,TKPFZANU45HFMT8X,10.9545,Solid Men Grey Track Pants,,False
+bm25,men track pants,4,TKPFZCRTFWVNBG4U,10.9545,Solid Men Yellow Track Pants,,False
+bm25,men track pants,5,TKPFZMQ8YMWNGXEU,10.9545,Solid Men Black Track Pants,,False
+bm25,men track pants,6,TKPFYNYUNRZKTWFJ,10.9337,Solid Men Grey Track Pants,3.2,False
+bm25,men track pants,7,TKPF3FPPTPDKPPFE,10.9328,Solid Men Grey Track Pants,2.6,False
+bm25,men track pants,8,TKPF3FPQJFH5KRK5,10.9328,Solid Men Grey Track Pants,2.6,False
+bm25,men track pants,9,TKPF3FPZRD9GSNKR,10.9328,Solid Men Grey Track Pants,2.6,False
+bm25,men track pants,10,TKPFZG64NDH5W4UY,10.9308,Striped Men Grey Track Pants,3.5,False
+bm25,men track pants,11,TKPF3FPJNVVBKPRG,10.8875,"Solid Men Blue, Black Track Pants",2.6,False
+bm25,men track pants,12,TKPF3FPKHNWZ3UMG,10.8875,"Solid Men Blue, Black Track Pants",2.6,False
+bm25,men track pants,13,TKPF3FPKTYM55SAV,10.8875,"Solid Men Black, Grey Track Pants",2.6,False
+bm25,men track pants,14,TKPF3FPNZ5XCHZ6R,10.8875,"Solid Men Black, Grey Track Pants",2.6,False
+bm25,men track pants,15,TKPF3FPQGCHXHGRM,10.8875,"Solid Men Black, Grey Track Pants",2.6,False
+bm25,men track pants,16,TKPF3FPZRRJUWTAZ,10.8875,"Solid Men Blue, Black Track Pants",2.6,False
+bm25,men track pants,17,TKPFKS96T88SUYBZ,10.8267,Solid Men Blue Track Pants,2.3,False
+bm25,men track pants,18,TKPEYQ6YNHW8FV5R,10.7982,"Solid Men Black, Orange Track Pants",3.5,False
+bm25,men track pants,19,TKPEYQ6Y3WBFYPZR,10.7542,Color Block Men Blue Track Pants,3.3,False
+bm25,men track pants,20,TKPFV5KFPXFRFXG4,10.6519,Solid Men Blue Track Pants,2.5,False
